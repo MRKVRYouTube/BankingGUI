@@ -64,10 +64,10 @@ It is not yet a real banking system. You should not store credentials, but it ca
 
 ## 💡 Future Improvements
 
-* [❌] Switch to CustomTkinter UI
-* [❌] Add account dashboard
-* [❌] Improve UI/UX design
-* [❌] Add user sessions
+* [x] Switch to CustomTkinter UI
+* [x] Add account dashboard
+* [x] Improve UI/UX design
+* [x] Add user sessions
 
 ---
 

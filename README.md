@@ -68,6 +68,7 @@ It is not yet a real banking system. You should not store credentials, but it ca
 * [x] Add account dashboard
 * [x] Improve UI/UX design
 * [x] Add user sessions
+* [ ] Make in .exe or .app so you DON'T have to install python
 
 ---
 

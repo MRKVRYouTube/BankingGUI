@@ -24,7 +24,7 @@ V1 (Right now):
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/fake-banking-system.git
+git clone https://github.com/MRKVRYouTube/MainBanker
 cd fake-banking-system
 ```
 

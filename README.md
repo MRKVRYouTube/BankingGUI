@@ -1,0 +1,82 @@
+# 💰 Fake Banking System (Tkinter)
+
+A simple Python GUI application that simulates basic banking account features like account creation, login, and deletion. Built using **Tkinter** with local JSON storage.
+
+---
+
+## 🚀 Features
+
+* 🧾 Create accounts (username + password)
+* 🔐 Secure password hashing (SHA-256)
+* 🔑 Login system
+* ❌ Delete accounts
+* 💾 Stores data locally in a JSON file
+
+---
+
+## 🖥️ Demo
+
+V1 (Right now):
+![App Screenshot](pictures/DemoV1.png)
+
+## 📦 Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/fake-banking-system.git
+cd fake-banking-system
+```
+
+2. Run the program:
+
+```bash
+python main.py
+```
+
+---
+
+## 🛠️ Requirements
+
+* Python 3.10+
+* No external libraries required (uses built-in modules)
+
+---
+
+## 📁 File Structure
+
+```
+📦 fake-banking-system
+ ┣ 📜 main.py
+ ┣ 📜 user_data.json
+ ┗ 📜 README.md
+```
+
+---
+
+## ⚠️ Disclaimer
+
+This project is for **educational purposes only**.
+It is NOT a real banking system and should not be used to store real credentials.
+
+---
+
+## 💡 Future Improvements
+
+* [ ] Switch to CustomTkinter UI
+* [ ] Add account dashboard
+* [ ] Improve UI/UX design
+* [ ] Add encryption instead of just hashing
+* [ ] Add user sessions
+
+---
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, open an issue first.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.

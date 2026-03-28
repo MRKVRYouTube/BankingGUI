@@ -57,7 +57,7 @@ python main.py
 ## ⚠️ Disclaimer
 
 This project is for **educational purposes only**.
-It is NOT a real banking system and should not be used to store real credentials.
+It is not yet a real banking system. You should not store credentials, but it can be used. (It is stored as SHA-256 encoded. Please consult with me if you have issues!)
 
 ---
 

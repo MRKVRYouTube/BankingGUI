@@ -16,8 +16,7 @@ A simple Python GUI application that simulates basic banking account features li
 
 ## 🖥️ Demo
 
-V1 (Right now):
-![App Screenshot](screenshots/DemoV1.png)
+![V1 (Right now)](screenshots/DemoV1.png)
 
 ## 📦 Installation
 

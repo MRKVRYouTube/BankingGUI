@@ -16,9 +16,9 @@ Right now, the app version is 1.0.0!
 ---
 
 ## 🖥️ Demo
-## This is V1, the current version!
+## This is V1.1.0, the current version!
 
-![V1 (Right now)](screenshots/DemoV1.png)
+![V1.1.0 (Right now)](screenshots/DemoV1.1.0.png)
 
 ## 📦 Installation
 

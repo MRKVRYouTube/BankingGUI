@@ -81,3 +81,10 @@ Pull requests are welcome. For major changes, open an issue first.
 ## 📄 License
 
 This project is open-source and available under the MIT License.
+
+## Update Log
+
+# V1 -- First release
+# V1.1.0 -- GUI / UI improvements, custom title bar, still with built-in libraries
+
+## Next Version: Coming today or early tomorrow.

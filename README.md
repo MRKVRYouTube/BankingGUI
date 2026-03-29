@@ -1,7 +1,7 @@
 # 💰 Fake Banking System (Tkinter)
 
 A simple Python GUI application that simulates basic banking account features like account creation, login, and deletion. Built using **Tkinter** with local JSON storage.
-Right now, the app version is 1.0.0.0!
+Right now, the app version is 1.0.0!
 
 ---
 

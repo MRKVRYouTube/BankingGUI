@@ -1,5 +1,7 @@
 # 💰 Fake Banking System (Tkinter)
 
+# Right now, in a few hours or days, the /Raw Code/ folder WILL be removed. I may or may not make another branch / repo for the raw code, but it will b deleted off of this repository
+
 A simple Python GUI application that simulates basic banking account features like account creation, login, and deletion. Built using **Tkinter** with local JSON storage.
 Right now, the app version is 1.1.0!
 

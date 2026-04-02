@@ -1,3 +1,5 @@
+#If you want to compile it, use 'pyinstaller --onefile --noconsole MainBanker.py' in the terminal (Requires PyInstaller to be installed).
+
 import json
 import os
 import hashlib
@@ -7,7 +9,6 @@ from ctypes import windll
 FILE_NAME = "user_data.json"
 
 class BANKING_THING(tk.Tk):
-
     def __init__(self):
         super().__init__()
         self.overrideredirect(True)

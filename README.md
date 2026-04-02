@@ -72,7 +72,8 @@ It is not yet a real banking system. You should not store credentials, but it ca
 * [x] Add account dashboard
 * [x] Improve UI/UX design
 * [x] Add user sessions
-* [ ] Make in .exe or .app so you DON'T have to install python
+* [x] Make an .exe
+* [ ] Make a .app for mobile
 
 ---
 
@@ -90,5 +91,6 @@ This project is open-source and available under the MIT License.
 
 ### V1 -- First release
 ### V1.1.0 -- GUI / UI improvements, custom title bar, still with built-in libraries
+### V1.2.0 -- Made the main script 'MainBanker.py' into an executable!
 
 ## Next Version: Coming today or early tomorrow.
